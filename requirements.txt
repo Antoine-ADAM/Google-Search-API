@@ -1,5 +1,5 @@
 beautifulsoup4
-selenium>=2.44.0,<3.0.0
+selenium
 requests
 unidecode
 vcrpy
